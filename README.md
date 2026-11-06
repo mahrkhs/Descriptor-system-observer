@@ -36,9 +36,6 @@ descriptor-system-observer/
 ├── simulink/
 │   └── try3.slx
 │
-├── results/
-│   └── figures/
-│
 └── README.md
 ```
 ## References
