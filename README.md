@@ -23,11 +23,6 @@ The MATLAB implementation includes:
 - Lyapunov equation for stability-related analysis.
 - Generalized inverse calculation for the gain computation.
 
-The observer gain is designed using the following desired poles:
-
-\[
-[-2.34,\;-2.45,\;-3.4,\;-3.3]
-\]
 
 A custom MATLAB function (`ginv.m`) is included for the generalized inverse calculation.
 
