@@ -41,6 +41,12 @@ descriptor-system-observer/
 │
 └── README.md
 ```
+## References
 
+1. *Fault reconstruction using sliding mode observer for LTI systems: A survey.* [IEEE Xplore](https://ieeexplore.ieee.org/document/8615018)
+2. *Unknown Exogenous Input Estimation for Infinitely Observable Complex Biological Descriptor Systems.* [IEEE Xplore](https://ieeexplore.ieee.org/document/8936309)
+## Authors
+- Mahrukh
+- Muwahida Liaquat
 
 
