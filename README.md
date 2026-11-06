@@ -34,7 +34,7 @@ descriptor-system-observer/
 │   └── ginv.m
 │
 ├── simulink/
-│   └── try3.slx
+│   └── observerSimulation.slx
 │
 └── README.md
 ```
