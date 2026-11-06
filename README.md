@@ -4,9 +4,9 @@ MATLAB/Simulink implementation of a state observer for linear descriptor systems
 
 The project explores state estimation in systems represented by
 
-\[
+$$
 E\dot{x}=Ax+Bu,\qquad y=Cx
-\]
+$$
 
 where \(E\) is a singular matrix.
 
