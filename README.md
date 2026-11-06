@@ -1,5 +1,3 @@
-# Descriptor System State Observer
-
 MATLAB/Simulink implementation of a state observer for linear descriptor systems.
 
 The project explores state estimation in systems represented by
